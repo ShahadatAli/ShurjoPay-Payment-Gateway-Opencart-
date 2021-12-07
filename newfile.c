@@ -4,3 +4,9 @@ int main()
 	blah blah balh
 	etc etc etc
 }
+
+void newFunction()
+{
+	this is a new function
+	commit this
+}
