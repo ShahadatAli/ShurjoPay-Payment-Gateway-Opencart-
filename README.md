@@ -2,8 +2,8 @@
 
 
 <p align="center">
-  <!-- XMAS: https://user-images.githubusercontent.com/7728097/146406114-a5f5e13a-e2ee-47a2-9bf9-ad43cdbdf200.png-->
-<img width="589" src="(https://user-images.githubusercontent.com/68351215/203033818-e457ec28-200c-4610-912e-00f0c50842ea.png" alt="Laravel Excel logo">
+
+<img width="589" src="(https://user-images.githubusercontent.com/68351215/203033818-e457ec28-200c-4610-912e-00f0c50842ea.png" alt="">
 </p>
 
 
